@@ -1,5 +1,5 @@
 #### 👽 About Me:
-Hello, I'm Zui! Aspiring Mobile App Dev
+Hello, I'm Zui! Aspiring Mobile App Dev.
 
 ####  🌏 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zuriel-paul-naboya-6a13b7174/) 
