@@ -1,5 +1,5 @@
 
-####  🌐 Socials:
+####  🌏 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zuriel-paul-naboya-6a13b7174/) 
 
 ####  🚀 Have worked in:
