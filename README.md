@@ -1,4 +1,4 @@
-### 💫 About Me:
+#### 👽 About Me:
 Hello, I'm Zui! Aspiring Mobile App Dev
 
 ####  🌏 Socials:
